@@ -105,7 +105,7 @@ html{
 ];
 
 var fullMarkdown = 
-  `郑小飞
+  `阿飞
 ----
 前端小白
 技能
@@ -120,11 +120,16 @@ var fullMarkdown =
 1. 软通动力(外派蚂蚁金服)
 2. 天脉
 3. 数字政通
+
+邮箱
+----
+* [jsonp404@gmail.com](https://www.google.com.hk/)
+
 链接
 ----
 * [GitHub](https://github.com/ZPF92)
 * [我的文章](https://www.cnblogs.com/people/tween)
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [这个的项目](https://github.com)，打造你自己的简历！
 `;
 var mobileFullStyle = [
     `/*
