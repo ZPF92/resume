@@ -23,6 +23,9 @@
     },
     created(){
       this.makeResume(this);
+    },
+    mounted(){
+      this.$refs.music.play();
     }
   }
 </script>
