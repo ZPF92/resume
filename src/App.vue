@@ -18,7 +18,6 @@
     },
     methods: {
       ...mapActions([
-        'progressivelyShowStyle',
         'makeResume'
       ])
     },
