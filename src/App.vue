@@ -25,6 +25,7 @@
       this.makeResume(this);
     },
     mounted(){
+      this.$refs.music.src = './static/bgm.mp3';
       this.$refs.music.play();
     }
   }
