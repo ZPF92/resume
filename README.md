@@ -8,7 +8,7 @@
 
 ``` bash
 git clone https://github.com/ZPF92/resume.git
-cd animating-resume
+cd resume
 npm install
 npm run dev
 ```
