@@ -2,7 +2,7 @@ var pcFullStyle = [
     	`/*
 * Inspired by http://strml.net/
 * 大家好，我是阿飞
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
+* 快国庆了，好多公司都在招聘，你是不是也在准备简历跳槽呀。
 * 说做就做，我也来写一份简历！
 */
 /* 首先给所有元素加上过渡效果 */
@@ -108,19 +108,19 @@ html{
 var fullMarkdown = 
   `阿飞
 ----
-前端小白
+高级前端开发工程师
 技能
 ----
-* 前端开发(H5)
+* vue.js
 * 微信小程序开发
-* Node.js 开发
+* node.js + webpack
 
 工作经历
 ----
 
-1. 软通动力(外派蚂蚁金服)
-2. 天脉
-3. 数字政通
+1.北京软通动力(外派蚂蚁金服)
+2.北京数字政通科技股份有限公司
+3.北京艾蒙特科技股份有限公司
 
 邮箱
 ----
@@ -129,14 +129,14 @@ var fullMarkdown =
 链接
 ----
 * [GitHub](https://github.com/ZPF92)
-* [我的文章](https://www.cnblogs.com/people/tween)
-> 如果你喜欢这个效果，Fork [这个的项目](https://github.com)，打造你自己的简历！
+* [我的文章](https://www.cnblogs.com/tween)
+> 如果你喜欢这个效果，Fork [这个的项目](https://github.com/ZPF92/resume)，打造你自己的简历！
 `;
 var mobileFullStyle = [
     `/*
 * Inspired by http://strml.net/
 * 大家好，我是阿飞
-* 二月了，好多公司都在招聘
+* 快国庆了，好多公司都在招聘
 * 你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
 */
